@@ -1,2 +1,5 @@
 # hello-world
-Just another repositoy
+
+Hi hunmans!
+
+Hubut here,I like Note.
